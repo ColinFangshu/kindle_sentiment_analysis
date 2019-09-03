@@ -1,1 +1,1 @@
-# Aamazon_kindle_sentimen_analysis
+# Amazon_kindle_sentimen_analysis
